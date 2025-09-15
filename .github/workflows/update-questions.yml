@@ -1,10 +1,7 @@
 name: Generate Questions
 
 on:
-  workflow_dispatch:   # Manual trigger
-  push:
-    branches:
-      - main           # or your default branch
+  workflow_dispatch:
 
 jobs:
   generate:
