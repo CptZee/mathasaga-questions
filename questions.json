@@ -1,0 +1,604 @@
+{
+  "Questions": [
+    {
+      "Text": "35 + 26",
+      "Operation": "Addition",
+      "status": "Available",
+      "Answer": 61.0
+    },
+    {
+      "Text": "45 + 23",
+      "Operation": "Addition",
+      "status": "Available",
+      "Answer": 68.0
+    },
+    {
+      "Text": "15 + 36",
+      "Operation": "Addition",
+      "status": "Available",
+      "Answer": 51.0
+    },
+    {
+      "Text": "6 + 44",
+      "Operation": "Addition",
+      "status": "Available",
+      "Answer": 50.0
+    },
+    {
+      "Text": "15 + 38",
+      "Operation": "Addition",
+      "status": "Available",
+      "Answer": 53.0
+    },
+    {
+      "Text": "7 + 16",
+      "Operation": "Addition",
+      "status": "Available",
+      "Answer": 23.0
+    },
+    {
+      "Text": "28 + 42",
+      "Operation": "Addition",
+      "status": "Available",
+      "Answer": 70.0
+    },
+    {
+      "Text": "19 + 11",
+      "Operation": "Addition",
+      "status": "Available",
+      "Answer": 30.0
+    },
+    {
+      "Text": "0 + 16",
+      "Operation": "Addition",
+      "status": "Available",
+      "Answer": 16.0
+    },
+    {
+      "Text": "29 + 33",
+      "Operation": "Addition",
+      "status": "Available",
+      "Answer": 62.0
+    },
+    {
+      "Text": "50 + 11",
+      "Operation": "Addition",
+      "status": "Available",
+      "Answer": 61.0
+    },
+    {
+      "Text": "40 + 33",
+      "Operation": "Addition",
+      "status": "Available",
+      "Answer": 73.0
+    },
+    {
+      "Text": "41 + 1",
+      "Operation": "Addition",
+      "status": "Available",
+      "Answer": 42.0
+    },
+    {
+      "Text": "18 + 26",
+      "Operation": "Addition",
+      "status": "Available",
+      "Answer": 44.0
+    },
+    {
+      "Text": "31 + 40",
+      "Operation": "Addition",
+      "status": "Available",
+      "Answer": 71.0
+    },
+    {
+      "Text": "37 + 17",
+      "Operation": "Addition",
+      "status": "Available",
+      "Answer": 54.0
+    },
+    {
+      "Text": "19 + 30",
+      "Operation": "Addition",
+      "status": "Available",
+      "Answer": 49.0
+    },
+    {
+      "Text": "0 + 13",
+      "Operation": "Addition",
+      "status": "Available",
+      "Answer": 13.0
+    },
+    {
+      "Text": "16 + 27",
+      "Operation": "Addition",
+      "status": "Available",
+      "Answer": 43.0
+    },
+    {
+      "Text": "27 + 41",
+      "Operation": "Addition",
+      "status": "Available",
+      "Answer": 68.0
+    },
+    {
+      "Text": "34 + 21",
+      "Operation": "Addition",
+      "status": "Available",
+      "Answer": 55.0
+    },
+    {
+      "Text": "21 + 21",
+      "Operation": "Addition",
+      "status": "Available",
+      "Answer": 42.0
+    },
+    {
+      "Text": "40 + 26",
+      "Operation": "Addition",
+      "status": "Available",
+      "Answer": 66.0
+    },
+    {
+      "Text": "49 + 22",
+      "Operation": "Addition",
+      "status": "Available",
+      "Answer": 71.0
+    },
+    {
+      "Text": "26 + 35",
+      "Operation": "Addition",
+      "status": "Available",
+      "Answer": 61.0
+    },
+    {
+      "Text": "31 - 9",
+      "Operation": "Substraction",
+      "status": "Available",
+      "Answer": 22.0
+    },
+    {
+      "Text": "19 - 14",
+      "Operation": "Substraction",
+      "status": "Available",
+      "Answer": 5.0
+    },
+    {
+      "Text": "60 - 17",
+      "Operation": "Substraction",
+      "status": "Available",
+      "Answer": 43.0
+    },
+    {
+      "Text": "51 - 41",
+      "Operation": "Substraction",
+      "status": "Available",
+      "Answer": 10.0
+    },
+    {
+      "Text": "93 - 76",
+      "Operation": "Substraction",
+      "status": "Available",
+      "Answer": 17.0
+    },
+    {
+      "Text": "63 - 59",
+      "Operation": "Substraction",
+      "status": "Available",
+      "Answer": 4.0
+    },
+    {
+      "Text": "11 - 7",
+      "Operation": "Substraction",
+      "status": "Available",
+      "Answer": 4.0
+    },
+    {
+      "Text": "56 - 12",
+      "Operation": "Substraction",
+      "status": "Available",
+      "Answer": 44.0
+    },
+    {
+      "Text": "68 - 42",
+      "Operation": "Substraction",
+      "status": "Available",
+      "Answer": 26.0
+    },
+    {
+      "Text": "73 - 42",
+      "Operation": "Substraction",
+      "status": "Available",
+      "Answer": 31.0
+    },
+    {
+      "Text": "57 - 55",
+      "Operation": "Substraction",
+      "status": "Available",
+      "Answer": 2.0
+    },
+    {
+      "Text": "16 - 4",
+      "Operation": "Substraction",
+      "status": "Available",
+      "Answer": 12.0
+    },
+    {
+      "Text": "26 - 25",
+      "Operation": "Substraction",
+      "status": "Available",
+      "Answer": 1.0
+    },
+    {
+      "Text": "80 - 62",
+      "Operation": "Substraction",
+      "status": "Available",
+      "Answer": 18.0
+    },
+    {
+      "Text": "33 - 8",
+      "Operation": "Substraction",
+      "status": "Available",
+      "Answer": 25.0
+    },
+    {
+      "Text": "53 - 14",
+      "Operation": "Substraction",
+      "status": "Available",
+      "Answer": 39.0
+    },
+    {
+      "Text": "77 - 77",
+      "Operation": "Substraction",
+      "status": "Available",
+      "Answer": 0.0
+    },
+    {
+      "Text": "53 - 6",
+      "Operation": "Substraction",
+      "status": "Available",
+      "Answer": 47.0
+    },
+    {
+      "Text": "83 - 50",
+      "Operation": "Substraction",
+      "status": "Available",
+      "Answer": 33.0
+    },
+    {
+      "Text": "47 - 24",
+      "Operation": "Substraction",
+      "status": "Available",
+      "Answer": 23.0
+    },
+    {
+      "Text": "59 - 46",
+      "Operation": "Substraction",
+      "status": "Available",
+      "Answer": 13.0
+    },
+    {
+      "Text": "31 - 11",
+      "Operation": "Substraction",
+      "status": "Available",
+      "Answer": 20.0
+    },
+    {
+      "Text": "28 - 1",
+      "Operation": "Substraction",
+      "status": "Available",
+      "Answer": 27.0
+    },
+    {
+      "Text": "45 - 18",
+      "Operation": "Substraction",
+      "status": "Available",
+      "Answer": 27.0
+    },
+    {
+      "Text": "51 - 32",
+      "Operation": "Substraction",
+      "status": "Available",
+      "Answer": 19.0
+    },
+    {
+      "Text": "9 × 8",
+      "Operation": "Multiplication",
+      "status": "Available",
+      "Answer": 72.0
+    },
+    {
+      "Text": "3 × 5",
+      "Operation": "Multiplication",
+      "status": "Available",
+      "Answer": 15.0
+    },
+    {
+      "Text": "8 × 3",
+      "Operation": "Multiplication",
+      "status": "Available",
+      "Answer": 24.0
+    },
+    {
+      "Text": "2 × 5",
+      "Operation": "Multiplication",
+      "status": "Available",
+      "Answer": 10.0
+    },
+    {
+      "Text": "7 × 9",
+      "Operation": "Multiplication",
+      "status": "Available",
+      "Answer": 63.0
+    },
+    {
+      "Text": "8 × 6",
+      "Operation": "Multiplication",
+      "status": "Available",
+      "Answer": 48.0
+    },
+    {
+      "Text": "12 × 5",
+      "Operation": "Multiplication",
+      "status": "Available",
+      "Answer": 60.0
+    },
+    {
+      "Text": "1 × 7",
+      "Operation": "Multiplication",
+      "status": "Available",
+      "Answer": 7.0
+    },
+    {
+      "Text": "4 × 2",
+      "Operation": "Multiplication",
+      "status": "Available",
+      "Answer": 8.0
+    },
+    {
+      "Text": "0 × 4",
+      "Operation": "Multiplication",
+      "status": "Available",
+      "Answer": 0.0
+    },
+    {
+      "Text": "12 × 4",
+      "Operation": "Multiplication",
+      "status": "Available",
+      "Answer": 48.0
+    },
+    {
+      "Text": "2 × 12",
+      "Operation": "Multiplication",
+      "status": "Available",
+      "Answer": 24.0
+    },
+    {
+      "Text": "6 × 0",
+      "Operation": "Multiplication",
+      "status": "Available",
+      "Answer": 0.0
+    },
+    {
+      "Text": "3 × 6",
+      "Operation": "Multiplication",
+      "status": "Available",
+      "Answer": 18.0
+    },
+    {
+      "Text": "11 × 1",
+      "Operation": "Multiplication",
+      "status": "Available",
+      "Answer": 11.0
+    },
+    {
+      "Text": "8 × 0",
+      "Operation": "Multiplication",
+      "status": "Available",
+      "Answer": 0.0
+    },
+    {
+      "Text": "8 × 7",
+      "Operation": "Multiplication",
+      "status": "Available",
+      "Answer": 56.0
+    },
+    {
+      "Text": "9 × 11",
+      "Operation": "Multiplication",
+      "status": "Available",
+      "Answer": 99.0
+    },
+    {
+      "Text": "0 × 7",
+      "Operation": "Multiplication",
+      "status": "Available",
+      "Answer": 0.0
+    },
+    {
+      "Text": "1 × 7",
+      "Operation": "Multiplication",
+      "status": "Available",
+      "Answer": 7.0
+    },
+    {
+      "Text": "7 × 4",
+      "Operation": "Multiplication",
+      "status": "Available",
+      "Answer": 28.0
+    },
+    {
+      "Text": "7 × 0",
+      "Operation": "Multiplication",
+      "status": "Available",
+      "Answer": 0.0
+    },
+    {
+      "Text": "10 × 12",
+      "Operation": "Multiplication",
+      "status": "Available",
+      "Answer": 120.0
+    },
+    {
+      "Text": "8 × 3",
+      "Operation": "Multiplication",
+      "status": "Available",
+      "Answer": 24.0
+    },
+    {
+      "Text": "3 × 1",
+      "Operation": "Multiplication",
+      "status": "Available",
+      "Answer": 3.0
+    },
+    {
+      "Text": "10 ÷ 10",
+      "Operation": "Division",
+      "status": "Available",
+      "Answer": 1.0
+    },
+    {
+      "Text": "260 ÷ 13",
+      "Operation": "Division",
+      "status": "Available",
+      "Answer": 20.0
+    },
+    {
+      "Text": "176 ÷ 22",
+      "Operation": "Division",
+      "status": "Available",
+      "Answer": 8.0
+    },
+    {
+      "Text": "84 ÷ 12",
+      "Operation": "Division",
+      "status": "Available",
+      "Answer": 7.0
+    },
+    {
+      "Text": "231 ÷ 21",
+      "Operation": "Division",
+      "status": "Available",
+      "Answer": 11.0
+    },
+    {
+      "Text": "600 ÷ 25",
+      "Operation": "Division",
+      "status": "Available",
+      "Answer": 24.0
+    },
+    {
+      "Text": "95 ÷ 19",
+      "Operation": "Division",
+      "status": "Available",
+      "Answer": 5.0
+    },
+    {
+      "Text": "400 ÷ 20",
+      "Operation": "Division",
+      "status": "Available",
+      "Answer": 20.0
+    },
+    {
+      "Text": "63 ÷ 3",
+      "Operation": "Division",
+      "status": "Available",
+      "Answer": 21.0
+    },
+    {
+      "Text": "75 ÷ 3",
+      "Operation": "Division",
+      "status": "Available",
+      "Answer": 25.0
+    },
+    {
+      "Text": "286 ÷ 13",
+      "Operation": "Division",
+      "status": "Available",
+      "Answer": 22.0
+    },
+    {
+      "Text": "22 ÷ 11",
+      "Operation": "Division",
+      "status": "Available",
+      "Answer": 2.0
+    },
+    {
+      "Text": "357 ÷ 21",
+      "Operation": "Division",
+      "status": "Available",
+      "Answer": 17.0
+    },
+    {
+      "Text": "154 ÷ 14",
+      "Operation": "Division",
+      "status": "Available",
+      "Answer": 11.0
+    },
+    {
+      "Text": "13 ÷ 13",
+      "Operation": "Division",
+      "status": "Available",
+      "Answer": 1.0
+    },
+    {
+      "Text": "4 ÷ 2",
+      "Operation": "Division",
+      "status": "Available",
+      "Answer": 2.0
+    },
+    {
+      "Text": "144 ÷ 24",
+      "Operation": "Division",
+      "status": "Available",
+      "Answer": 6.0
+    },
+    {
+      "Text": "38 ÷ 19",
+      "Operation": "Division",
+      "status": "Available",
+      "Answer": 2.0
+    },
+    {
+      "Text": "252 ÷ 14",
+      "Operation": "Division",
+      "status": "Available",
+      "Answer": 18.0
+    },
+    {
+      "Text": "126 ÷ 21",
+      "Operation": "Division",
+      "status": "Available",
+      "Answer": 6.0
+    },
+    {
+      "Text": "45 ÷ 3",
+      "Operation": "Division",
+      "status": "Available",
+      "Answer": 15.0
+    },
+    {
+      "Text": "323 ÷ 17",
+      "Operation": "Division",
+      "status": "Available",
+      "Answer": 19.0
+    },
+    {
+      "Text": "308 ÷ 22",
+      "Operation": "Division",
+      "status": "Available",
+      "Answer": 14.0
+    },
+    {
+      "Text": "78 ÷ 6",
+      "Operation": "Division",
+      "status": "Available",
+      "Answer": 13.0
+    },
+    {
+      "Text": "42 ÷ 6",
+      "Operation": "Division",
+      "status": "Available",
+      "Answer": 7.0
+    }
+  ]
+}
