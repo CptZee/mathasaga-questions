@@ -2,9 +2,7 @@ name: Generate Questions
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - main
+  
 
 permissions:
   contents: write   # <-- allow workflow to push commits
