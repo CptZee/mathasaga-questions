@@ -26,16 +26,16 @@ Each problem must:
 - No fractions, decimals, or negative results.
 - Output in strict JSON with the format:
 
-{
+{{
   "Questions": [
-    {
+    {{
       "Text": "<word problem text>",
       "Operation": "{operation}",
       "status": "Available",
       "Answer": <numeric answer>
-    }
+    }}
   ]
-}
+}}
 """
 
 # --- OpenAI-based generator ---
@@ -46,7 +46,12 @@ def fetch_questions_openai(operation: str, count: int = 5):
         messages=[{"role": "user", "content": prompt}],
         temperature=0.7,
     )
-    content = response.choices[0].message.content
+    content = response.choices[0].message.content.strip()
+
+    # --- Strip markdown fences if present ---
+    if content.startswith("```"):
+        content = re.sub(r"^```[a-zA-Z]*\n?", "", content)  # remove opening ```json
+        content = re.sub(r"```$", "", content.strip())      # remove trailing ```
 
     try:
         data = json.loads(content)
