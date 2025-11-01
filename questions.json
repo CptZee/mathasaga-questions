@@ -1,604 +1,580 @@
 {
   "Questions": [
     {
-      "Text": "29 + 5",
+      "Text": "Emma has 12 apples. Her friend gave her 8 more apples. How many apples does Emma have now?",
       "Operation": "Addition",
       "status": "Available",
-      "Answer": 34.0
+      "Answer": 20
     },
     {
-      "Text": "28 + 8",
+      "Text": "There are 15 kids playing in the park. 10 more kids joined them. How many kids are playing in the park now?",
       "Operation": "Addition",
       "status": "Available",
-      "Answer": 36.0
+      "Answer": 25
     },
     {
-      "Text": "16 + 38",
+      "Text": "Tom has 5 toy cars. His mom bought him 9 additional toy cars. How many toy cars does Tom have in total?",
       "Operation": "Addition",
       "status": "Available",
-      "Answer": 54.0
+      "Answer": 14
     },
     {
-      "Text": "43 + 47",
+      "Text": "Lucy collected 18 seashells at the beach. She found 7 more seashells later. How many seashells does she have altogether?",
       "Operation": "Addition",
       "status": "Available",
-      "Answer": 90.0
+      "Answer": 25
     },
     {
-      "Text": "6 + 39",
+      "Text": "A farmer has 22 chickens. He buys 11 more chickens. How many chickens does he have now?",
       "Operation": "Addition",
       "status": "Available",
-      "Answer": 45.0
+      "Answer": 33
     },
     {
-      "Text": "3 + 16",
+      "Text": "A toy store has 30 dolls. They received a shipment of 15 new dolls. How many dolls are in the store now?",
       "Operation": "Addition",
       "status": "Available",
-      "Answer": 19.0
+      "Answer": 45
     },
     {
-      "Text": "14 + 26",
+      "Text": "Sarah has 9 balloons. Her friend gave her 6 more balloons. How many balloons does Sarah have now?",
       "Operation": "Addition",
       "status": "Available",
-      "Answer": 40.0
+      "Answer": 15
     },
     {
-      "Text": "0 + 12",
+      "Text": "James read 14 books last month. This month, he read 8 more books. How many books has he read in total?",
       "Operation": "Addition",
       "status": "Available",
-      "Answer": 12.0
+      "Answer": 22
     },
     {
-      "Text": "0 + 3",
+      "Text": "There are 25 students in the classroom. 10 more students joined the class. How many students are there now?",
       "Operation": "Addition",
       "status": "Available",
-      "Answer": 3.0
+      "Answer": 35
     },
     {
-      "Text": "38 + 17",
+      "Text": "Anna has 16 stickers. She buys 9 more stickers. How many stickers does Anna have altogether?",
       "Operation": "Addition",
       "status": "Available",
-      "Answer": 55.0
+      "Answer": 25
     },
     {
-      "Text": "43 + 40",
+      "Text": "A pet shop has 40 fish. They received 20 more fish from a supplier. How many fish are in the shop now?",
       "Operation": "Addition",
       "status": "Available",
-      "Answer": 83.0
+      "Answer": 60
     },
     {
-      "Text": "20 + 48",
+      "Text": "Mark has 13 books on his shelf. His friend gave him 5 more books. How many books does Mark have now?",
       "Operation": "Addition",
       "status": "Available",
-      "Answer": 68.0
+      "Answer": 18
     },
     {
-      "Text": "44 + 9",
+      "Text": "There are 21 cookies in a jar. Mom baked 9 more cookies. How many cookies are there in total?",
       "Operation": "Addition",
       "status": "Available",
-      "Answer": 53.0
+      "Answer": 30
     },
     {
-      "Text": "28 + 40",
+      "Text": "A gardener planted 15 flowers in the morning and 10 more in the evening. How many flowers were planted in total?",
       "Operation": "Addition",
       "status": "Available",
-      "Answer": 68.0
+      "Answer": 25
     },
     {
-      "Text": "10 + 10",
+      "Text": "Nina has 7 toy robots. She received 12 more robots for her birthday. How many toy robots does she have now?",
       "Operation": "Addition",
       "status": "Available",
-      "Answer": 20.0
+      "Answer": 19
     },
     {
-      "Text": "20 + 17",
+      "Text": "A bakery sold 17 loaves of bread in the morning and 13 loaves in the afternoon. How many loaves of bread were sold in total?",
       "Operation": "Addition",
       "status": "Available",
-      "Answer": 37.0
+      "Answer": 30
     },
     {
-      "Text": "42 + 24",
+      "Text": "Sophia has 20 crayons. Her friend gave her 15 more crayons. How many crayons does Sophia have now?",
       "Operation": "Addition",
       "status": "Available",
-      "Answer": 66.0
+      "Answer": 35
     },
     {
-      "Text": "49 + 12",
+      "Text": "There are 9 birds in a tree. 4 more birds flew to the tree. How many birds are in the tree now?",
       "Operation": "Addition",
       "status": "Available",
-      "Answer": 61.0
+      "Answer": 13
     },
     {
-      "Text": "33 + 24",
+      "Text": "A library has 50 new books. They received 25 more books as a donation. How many books does the library have now?",
       "Operation": "Addition",
       "status": "Available",
-      "Answer": 57.0
+      "Answer": 75
     },
     {
-      "Text": "44 + 26",
+      "Text": "Leo has 30 marbles. He found 10 more marbles under his bed. How many marbles does Leo have now?",
       "Operation": "Addition",
       "status": "Available",
-      "Answer": 70.0
+      "Answer": 40
     },
     {
-      "Text": "12 + 1",
+      "Text": "A farmer harvested 18 apples in the morning and 12 apples in the afternoon. How many apples did he harvest in total?",
       "Operation": "Addition",
       "status": "Available",
-      "Answer": 13.0
+      "Answer": 30
     },
     {
-      "Text": "34 + 1",
+      "Text": "Mia has 4 puppies. She adopts 6 more puppies from the shelter. How many puppies does Mia have now?",
       "Operation": "Addition",
       "status": "Available",
-      "Answer": 35.0
+      "Answer": 10
     },
     {
-      "Text": "38 + 19",
+      "Text": "A candy jar has 11 candies. After a party, there are 14 more candies added. How many candies are in the jar now?",
       "Operation": "Addition",
       "status": "Available",
-      "Answer": 57.0
+      "Answer": 25
     },
     {
-      "Text": "48 + 4",
+      "Text": "Kevin has 26 toy blocks. He received 14 more blocks as a gift. How many toy blocks does Kevin have now?",
       "Operation": "Addition",
       "status": "Available",
-      "Answer": 52.0
+      "Answer": 40
     },
     {
-      "Text": "44 + 43",
-      "Operation": "Addition",
+      "Text": "Emma had 25 candies. She gave 8 candies to her friend. How many candies does she have left?",
+      "Operation": "Substraction",
       "status": "Available",
-      "Answer": 87.0
+      "Answer": 17
     },
     {
-      "Text": "36 - 31",
-      "Operation": "Subtraction",
+      "Text": "There are 40 apples in a basket. If 15 apples are taken out, how many apples remain in the basket?",
+      "Operation": "Substraction",
       "status": "Available",
-      "Answer": 5.0
+      "Answer": 25
     },
     {
-      "Text": "61 - 25",
-      "Operation": "Subtraction",
+      "Text": "Liam has 50 toy cars. He lost 12 of them while playing. How many toy cars does he still have?",
+      "Operation": "Substraction",
       "status": "Available",
-      "Answer": 36.0
+      "Answer": 38
     },
     {
-      "Text": "69 - 54",
-      "Operation": "Subtraction",
+      "Text": "Sophie read 30 pages of a book. If the book has 60 pages, how many pages does she have left to read?",
+      "Operation": "Substraction",
       "status": "Available",
-      "Answer": 15.0
+      "Answer": 30
     },
     {
-      "Text": "27 - 12",
-      "Operation": "Subtraction",
+      "Text": "In a classroom, there are 45 students. If 10 students go home early, how many students are left in the classroom?",
+      "Operation": "Substraction",
       "status": "Available",
-      "Answer": 15.0
+      "Answer": 35
     },
     {
-      "Text": "2 - 1",
-      "Operation": "Subtraction",
+      "Text": "Jack had 70 marbles. He gave away 20 marbles to his friends. How many marbles does Jack have now?",
+      "Operation": "Substraction",
       "status": "Available",
-      "Answer": 1.0
+      "Answer": 50
     },
     {
-      "Text": "43 - 39",
-      "Operation": "Subtraction",
+      "Text": "A farmer has 90 chickens. If 25 chickens are sold, how many chickens does the farmer have left?",
+      "Operation": "Substraction",
       "status": "Available",
-      "Answer": 4.0
+      "Answer": 65
     },
     {
-      "Text": "26 - 2",
-      "Operation": "Subtraction",
+      "Text": "There are 60 stickers in a book. If Mia uses 22 stickers for her project, how many stickers are left?",
+      "Operation": "Substraction",
       "status": "Available",
-      "Answer": 24.0
+      "Answer": 38
     },
     {
-      "Text": "26 - 23",
-      "Operation": "Subtraction",
+      "Text": "A library has 80 books. If 15 books are checked out, how many books are still in the library?",
+      "Operation": "Substraction",
       "status": "Available",
-      "Answer": 3.0
+      "Answer": 65
     },
     {
-      "Text": "5 - 0",
-      "Operation": "Subtraction",
+      "Text": "Tom had 55 points in a game. He lost 18 points in the next round. How many points does Tom have now?",
+      "Operation": "Substraction",
       "status": "Available",
-      "Answer": 5.0
+      "Answer": 37
     },
     {
-      "Text": "80 - 31",
-      "Operation": "Subtraction",
+      "Text": "Sara collected 72 shells at the beach. If she gave 30 shells to her brother, how many does she have left?",
+      "Operation": "Substraction",
       "status": "Available",
-      "Answer": 49.0
+      "Answer": 42
     },
     {
-      "Text": "87 - 75",
-      "Operation": "Subtraction",
+      "Text": "There are 100 balloons at a party. If 45 balloons pop, how many balloons are left?",
+      "Operation": "Substraction",
       "status": "Available",
-      "Answer": 12.0
+      "Answer": 55
     },
     {
-      "Text": "18 - 9",
-      "Operation": "Subtraction",
+      "Text": "A pet store has 25 puppies. If 7 puppies are adopted, how many puppies remain at the store?",
+      "Operation": "Substraction",
       "status": "Available",
-      "Answer": 9.0
+      "Answer": 18
     },
     {
-      "Text": "21 - 20",
-      "Operation": "Subtraction",
+      "Text": "Maya had 65 stickers in her collection. She traded 20 stickers with her friend. How many stickers does she have now?",
+      "Operation": "Substraction",
       "status": "Available",
-      "Answer": 1.0
+      "Answer": 45
     },
     {
-      "Text": "68 - 18",
-      "Operation": "Subtraction",
+      "Text": "A cake was cut into 50 pieces. If 18 pieces were eaten, how many pieces are left?",
+      "Operation": "Substraction",
       "status": "Available",
-      "Answer": 50.0
+      "Answer": 32
     },
     {
-      "Text": "99 - 45",
-      "Operation": "Subtraction",
+      "Text": "There are 78 cookies in a jar. If 29 cookies are taken out, how many cookies are remaining?",
+      "Operation": "Substraction",
       "status": "Available",
-      "Answer": 54.0
+      "Answer": 49
     },
     {
-      "Text": "46 - 17",
-      "Operation": "Subtraction",
+      "Text": "Lucy has 44 crayons. If she loses 16 crayons, how many crayons does she have left?",
+      "Operation": "Substraction",
       "status": "Available",
-      "Answer": 29.0
+      "Answer": 28
     },
     {
-      "Text": "99 - 56",
-      "Operation": "Subtraction",
+      "Text": "A gardener planted 90 flowers. If 35 flowers died, how many flowers are still alive?",
+      "Operation": "Substraction",
       "status": "Available",
-      "Answer": 43.0
+      "Answer": 55
     },
     {
-      "Text": "32 - 15",
-      "Operation": "Subtraction",
+      "Text": "Ben had 36 baseball cards. He gave 15 to his friend. How many baseball cards does he have left?",
+      "Operation": "Substraction",
       "status": "Available",
-      "Answer": 17.0
+      "Answer": 21
     },
     {
-      "Text": "27 - 23",
-      "Operation": "Subtraction",
+      "Text": "A zoo has 80 animals. If 22 animals are taken to another zoo, how many animals are left?",
+      "Operation": "Substraction",
       "status": "Available",
-      "Answer": 4.0
+      "Answer": 58
     },
     {
-      "Text": "25 - 5",
-      "Operation": "Subtraction",
+      "Text": "A box contains 52 chocolates. If 19 chocolates are eaten, how many chocolates are remaining in the box?",
+      "Operation": "Substraction",
       "status": "Available",
-      "Answer": 20.0
+      "Answer": 33
     },
     {
-      "Text": "96 - 32",
-      "Operation": "Subtraction",
+      "Text": "There are 66 players in a tournament. If 24 players are eliminated, how many players are still in the tournament?",
+      "Operation": "Substraction",
       "status": "Available",
-      "Answer": 64.0
+      "Answer": 42
     },
     {
-      "Text": "19 - 1",
-      "Operation": "Subtraction",
+      "Text": "A teacher had 48 markers. If 17 markers were broken, how many markers are still usable?",
+      "Operation": "Substraction",
       "status": "Available",
-      "Answer": 18.0
+      "Answer": 31
     },
     {
-      "Text": "25 - 13",
-      "Operation": "Subtraction",
+      "Text": "A pet shop had 30 kittens. If 12 kittens were adopted, how many kittens are left?",
+      "Operation": "Substraction",
       "status": "Available",
-      "Answer": 12.0
+      "Answer": 18
     },
     {
-      "Text": "18 - 8",
-      "Operation": "Subtraction",
-      "status": "Available",
-      "Answer": 10.0
-    },
-    {
-      "Text": "6 - 6",
-      "Operation": "Subtraction",
-      "status": "Available",
-      "Answer": 0.0
-    },
-    {
-      "Text": "4 × 11",
+      "Text": "If there are 4 bags and each bag has 6 apples, how many apples are there in total?",
       "Operation": "Multiplication",
       "status": "Available",
-      "Answer": 44.0
+      "Answer": 24
     },
     {
-      "Text": "2 × 12",
+      "Text": "A box has 7 rows of crayons, and each row has 5 crayons. How many crayons are there in total?",
       "Operation": "Multiplication",
       "status": "Available",
-      "Answer": 24.0
+      "Answer": 35
     },
     {
-      "Text": "5 × 4",
+      "Text": "There are 9 kids in a class, and each kid has 3 toys. How many toys are there altogether?",
       "Operation": "Multiplication",
       "status": "Available",
-      "Answer": 20.0
+      "Answer": 27
     },
     {
-      "Text": "1 × 0",
+      "Text": "If there are 8 flowers in each garden and there are 4 gardens, how many flowers are there in total?",
       "Operation": "Multiplication",
       "status": "Available",
-      "Answer": 0.0
+      "Answer": 32
     },
     {
-      "Text": "0 × 2",
+      "Text": "A baker made 5 trays of cookies with 12 cookies on each tray. How many cookies did he make?",
       "Operation": "Multiplication",
       "status": "Available",
-      "Answer": 0.0
+      "Answer": 60
     },
     {
-      "Text": "9 × 4",
+      "Text": "If each pack of stickers has 10 stickers and you have 3 packs, how many stickers do you have?",
       "Operation": "Multiplication",
       "status": "Available",
-      "Answer": 36.0
+      "Answer": 30
     },
     {
-      "Text": "12 × 1",
+      "Text": "There are 6 packs of gum, and each pack contains 8 pieces. How many pieces of gum are there in total?",
       "Operation": "Multiplication",
       "status": "Available",
-      "Answer": 12.0
+      "Answer": 48
     },
     {
-      "Text": "9 × 12",
+      "Text": "A toy store has 7 shelves, and each shelf holds 9 stuffed animals. How many stuffed animals are there in total?",
       "Operation": "Multiplication",
       "status": "Available",
-      "Answer": 108.0
+      "Answer": 63
     },
     {
-      "Text": "8 × 11",
+      "Text": "If a classroom has 5 tables and each table has 4 chairs, how many chairs are there in total?",
       "Operation": "Multiplication",
       "status": "Available",
-      "Answer": 88.0
+      "Answer": 20
     },
     {
-      "Text": "7 × 1",
+      "Text": "If there are 3 dogs and each dog has 4 bones, how many bones are there in total?",
       "Operation": "Multiplication",
       "status": "Available",
-      "Answer": 7.0
+      "Answer": 12
     },
     {
-      "Text": "10 × 3",
+      "Text": "A farmer has 6 baskets and puts 10 oranges in each basket. How many oranges does he have?",
       "Operation": "Multiplication",
       "status": "Available",
-      "Answer": 30.0
+      "Answer": 60
     },
     {
-      "Text": "7 × 1",
+      "Text": "If there are 4 teams and each team has 11 players, how many players are there in total?",
       "Operation": "Multiplication",
       "status": "Available",
-      "Answer": 7.0
+      "Answer": 44
     },
     {
-      "Text": "0 × 5",
+      "Text": "A pack of cards has 13 cards in it. If you have 5 packs, how many cards do you have?",
       "Operation": "Multiplication",
       "status": "Available",
-      "Answer": 0.0
+      "Answer": 65
     },
     {
-      "Text": "3 × 9",
+      "Text": "If there are 12 cupcakes in each box and you have 3 boxes, how many cupcakes do you have?",
       "Operation": "Multiplication",
       "status": "Available",
-      "Answer": 27.0
+      "Answer": 36
     },
     {
-      "Text": "12 × 12",
+      "Text": "A school has 9 classrooms and each classroom has 8 desks. How many desks are there in total?",
       "Operation": "Multiplication",
       "status": "Available",
-      "Answer": 144.0
+      "Answer": 72
     },
     {
-      "Text": "8 × 3",
+      "Text": "If each of the 10 friends has 2 balloons, how many balloons do they have together?",
       "Operation": "Multiplication",
       "status": "Available",
-      "Answer": 24.0
+      "Answer": 20
     },
     {
-      "Text": "12 × 12",
+      "Text": "A restaurant has 4 tables, and each table has 6 chairs. How many chairs are there in total?",
       "Operation": "Multiplication",
       "status": "Available",
-      "Answer": 144.0
+      "Answer": 24
     },
     {
-      "Text": "9 × 10",
+      "Text": "If a pet shop has 3 cages and each cage has 5 rabbits, how many rabbits are there?",
       "Operation": "Multiplication",
       "status": "Available",
-      "Answer": 90.0
+      "Answer": 15
     },
     {
-      "Text": "9 × 10",
+      "Text": "There are 10 pizza slices in each pizza. If you order 4 pizzas, how many slices do you have?",
       "Operation": "Multiplication",
       "status": "Available",
-      "Answer": 90.0
+      "Answer": 40
     },
     {
-      "Text": "4 × 4",
+      "Text": "A toy factory makes 7 dolls every hour. How many dolls does it make in 6 hours?",
       "Operation": "Multiplication",
       "status": "Available",
-      "Answer": 16.0
+      "Answer": 42
     },
     {
-      "Text": "2 × 5",
+      "Text": "If a garden has 8 rows of flowers and each row has 9 flowers, how many flowers are there?",
       "Operation": "Multiplication",
       "status": "Available",
-      "Answer": 10.0
+      "Answer": 72
     },
     {
-      "Text": "11 × 3",
+      "Text": "If you collect 5 stickers each day for 10 days, how many stickers do you collect?",
       "Operation": "Multiplication",
       "status": "Available",
-      "Answer": 33.0
+      "Answer": 50
     },
     {
-      "Text": "6 × 10",
+      "Text": "A box of chocolates contains 15 chocolates. If you have 2 boxes, how many chocolates do you have?",
       "Operation": "Multiplication",
       "status": "Available",
-      "Answer": 60.0
+      "Answer": 30
     },
     {
-      "Text": "3 × 5",
+      "Text": "If there are 6 cars and each car has 4 wheels, how many wheels are there in total?",
       "Operation": "Multiplication",
       "status": "Available",
-      "Answer": 15.0
+      "Answer": 24
     },
     {
-      "Text": "6 × 0",
-      "Operation": "Multiplication",
-      "status": "Available",
-      "Answer": 0.0
-    },
-    {
-      "Text": "110 ÷ 22",
+      "Text": "There are 24 apples and 6 baskets. If you want to put the apples evenly in the baskets, how many apples will go in each basket?",
       "Operation": "Division",
       "status": "Available",
-      "Answer": 5.0
+      "Answer": 4
     },
     {
-      "Text": "276 ÷ 23",
+      "Text": "A teacher has 30 pencils and wants to distribute them equally among 5 students. How many pencils will each student get?",
       "Operation": "Division",
       "status": "Available",
-      "Answer": 12.0
+      "Answer": 6
     },
     {
-      "Text": "238 ÷ 14",
+      "Text": "There are 48 cookies and 8 plates. If you put the cookies evenly on the plates, how many cookies will be on each plate?",
       "Operation": "Division",
       "status": "Available",
-      "Answer": 17.0
+      "Answer": 6
     },
     {
-      "Text": "135 ÷ 15",
+      "Text": "Sarah has 36 stickers and she wants to share them equally with her 9 friends. How many stickers will each friend get?",
       "Operation": "Division",
       "status": "Available",
-      "Answer": 9.0
+      "Answer": 4
     },
     {
-      "Text": "32 ÷ 16",
+      "Text": "A farmer has 50 oranges and he wants to pack them into boxes that hold 10 oranges each. How many boxes does he need?",
       "Operation": "Division",
       "status": "Available",
-      "Answer": 2.0
+      "Answer": 5
     },
     {
-      "Text": "50 ÷ 5",
+      "Text": "There are 80 marbles and 8 kids want to play with them. If they share the marbles equally, how many marbles does each kid get?",
       "Operation": "Division",
       "status": "Available",
-      "Answer": 10.0
+      "Answer": 10
     },
     {
-      "Text": "35 ÷ 7",
+      "Text": "A bakery made 56 muffins and they want to pack them into boxes of 7 muffins each. How many boxes will they fill?",
       "Operation": "Division",
       "status": "Available",
-      "Answer": 5.0
+      "Answer": 8
     },
     {
-      "Text": "20 ÷ 20",
+      "Text": "Tom has 18 toy cars and he wants to give them to 3 of his friends. If he gives the same number of cars to each friend, how many cars will each friend receive?",
       "Operation": "Division",
       "status": "Available",
-      "Answer": 1.0
+      "Answer": 6
     },
     {
-      "Text": "16 ÷ 2",
+      "Text": "In a class, there are 45 books and 9 students. If the books are shared equally among the students, how many books does each student get?",
       "Operation": "Division",
       "status": "Available",
-      "Answer": 8.0
+      "Answer": 5
     },
     {
-      "Text": "28 ÷ 7",
+      "Text": "A gardener has 72 flowers and wants to plant them in rows of 8 flowers each. How many rows can he plant?",
       "Operation": "Division",
       "status": "Available",
-      "Answer": 4.0
+      "Answer": 9
     },
     {
-      "Text": "72 ÷ 4",
+      "Text": "There are 60 cupcakes and 10 boxes. If the cupcakes are divided equally among the boxes, how many cupcakes will be in each box?",
       "Operation": "Division",
       "status": "Available",
-      "Answer": 18.0
+      "Answer": 6
     },
     {
-      "Text": "252 ÷ 21",
+      "Text": "A zoo has 84 animals and 12 enclosures. If they want to put the animals evenly in the enclosures, how many animals will go in each enclosure?",
       "Operation": "Division",
       "status": "Available",
-      "Answer": 12.0
+      "Answer": 7
     },
     {
-      "Text": "414 ÷ 23",
+      "Text": "There are 27 students and 3 groups for a project. If the students are divided equally into groups, how many students will be in each group?",
       "Operation": "Division",
       "status": "Available",
-      "Answer": 18.0
+      "Answer": 9
     },
     {
-      "Text": "375 ÷ 15",
+      "Text": "A toy store has 90 toys and they want to display them in 10 equal sections. How many toys will go in each section?",
       "Operation": "Division",
       "status": "Available",
-      "Answer": 25.0
+      "Answer": 9
     },
     {
-      "Text": "264 ÷ 22",
+      "Text": "Lily has 40 crayons and wants to share them with 5 of her friends. How many crayons does each friend get?",
       "Operation": "Division",
       "status": "Available",
-      "Answer": 12.0
+      "Answer": 8
     },
     {
-      "Text": "200 ÷ 10",
+      "Text": "A pizza shop made 36 slices of pizza and 6 customers are there. If they share the slices equally, how many slices will each customer get?",
       "Operation": "Division",
       "status": "Available",
-      "Answer": 20.0
+      "Answer": 6
     },
     {
-      "Text": "325 ÷ 25",
+      "Text": "In a library, there are 54 books and 9 shelves. If the books are arranged equally on the shelves, how many books will go on each shelf?",
       "Operation": "Division",
       "status": "Available",
-      "Answer": 13.0
+      "Answer": 6
     },
     {
-      "Text": "68 ÷ 17",
+      "Text": "A toy maker has 64 toy blocks and wants to pack them into boxes of 8 blocks each. How many boxes can he fill?",
       "Operation": "Division",
       "status": "Available",
-      "Answer": 4.0
+      "Answer": 8
     },
     {
-      "Text": "270 ÷ 18",
+      "Text": "A group of 12 kids wants to play with 60 balloons. If they share the balloons equally, how many balloons does each kid get?",
       "Operation": "Division",
       "status": "Available",
-      "Answer": 15.0
+      "Answer": 5
     },
     {
-      "Text": "66 ÷ 6",
+      "Text": "A farmer collected 90 eggs and wants to pack them in cartons of 10 eggs each. How many cartons does he need?",
       "Operation": "Division",
       "status": "Available",
-      "Answer": 11.0
+      "Answer": 9
     },
     {
-      "Text": "418 ÷ 22",
+      "Text": "There are 36 pieces of candy and 4 friends want to share them equally. How many pieces of candy will each friend get?",
       "Operation": "Division",
       "status": "Available",
-      "Answer": 19.0
+      "Answer": 9
     },
     {
-      "Text": "323 ÷ 17",
+      "Text": "A class has 56 crayons and they want to distribute them to 7 tables. How many crayons will each table get?",
       "Operation": "Division",
       "status": "Available",
-      "Answer": 19.0
+      "Answer": 8
     },
     {
-      "Text": "165 ÷ 15",
+      "Text": "A fish tank has 45 fish and 5 tanks. If the fish are divided equally among the tanks, how many fish will be in each tank?",
       "Operation": "Division",
       "status": "Available",
-      "Answer": 11.0
+      "Answer": 9
     },
     {
-      "Text": "48 ÷ 16",
+      "Text": "A school has 18 basketballs and 6 teams. If they share the basketballs equally, how many basketballs does each team get?",
       "Operation": "Division",
       "status": "Available",
-      "Answer": 3.0
-    },
-    {
-      "Text": "30 ÷ 15",
-      "Operation": "Division",
-      "status": "Available",
-      "Answer": 2.0
+      "Answer": 3
     }
   ]
 }
