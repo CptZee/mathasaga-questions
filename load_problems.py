@@ -16,7 +16,7 @@ else:
 # --- Prompt template for ChatGPT ---
 PROMPT_TEMPLATE = """
 You are a math problem generator for a Grade 3 educational game.
-Generate {count} unique math word problems for {operation}, where {operation} is one of: Addition, Substraction, Multiplication, Division.
+Generate {count} unique math word problems for {operation}, where {operation} is one of: Addition, Subtraction, Multiplication, Division.
 
 Each problem must:
 - Be written as a short word problem suitable for Grade 3 students.
