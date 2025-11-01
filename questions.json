@@ -1,6 +1,5 @@
 {
   "Questions": [
-    // ADDITION (25)
     {
       "Text": "What is 2 apples + 3 oranges?",
       "Operation": "Addition",
@@ -151,8 +150,6 @@
       "status": "Available",
       "Answer": 65
     },
-
-    // SUBTRACTION (25)
     {
       "Text": "What is 10 apples - 3 apples?",
       "Operation": "Subtraction",
@@ -303,8 +300,6 @@
       "status": "Available",
       "Answer": 30
     },
-
-    // MULTIPLICATION (25)
     {
       "Text": "What is 4 bags × 5 apples?",
       "Operation": "Multiplication",
@@ -455,8 +450,6 @@
       "status": "Available",
       "Answer": 60
     },
-
-    // DIVISION (25)
     {
       "Text": "What is 20 apples ÷ 4 baskets?",
       "Operation": "Division",
