@@ -65,7 +65,7 @@ def fetch_questions_openai(operation: str, count: int = 5):
 # --- Mathgenerator fallback ---
 OP_FUNCS = {
     "Addition": mathgenerator.addition if not USE_OPENAI else None,
-    "Substraction": mathgenerator.subtraction if not USE_OPENAI else None,
+    "Subtraction": mathgenerator.subtraction if not USE_OPENAI else None,
     "Multiplication": mathgenerator.multiplication if not USE_OPENAI else None,
     "Division": mathgenerator.division if not USE_OPENAI else None,
 }
@@ -100,7 +100,7 @@ def sanitize_answer(a: str) -> Optional[float]:
 
 # --- Generate wrapper ---
 def generate_questions(per_op: int = 20):
-    operations = ["Addition", "Substraction", "Multiplication", "Division"]
+    operations = ["Addition", "Subtraction", "Multiplication", "Division"]
     all_questions = []
 
     if USE_OPENAI:
